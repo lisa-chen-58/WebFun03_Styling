@@ -1,0 +1,30 @@
+
+#my{
+    color:white;
+}
+#cloud{
+    color:#00ffff
+}
+.myCloud{
+    background-color: black;
+    width:100%;
+    display: flex;
+    margin: 10px;
+    padding: 0px 10px
+}
+#completedProjects{
+    background-color: #8158ab;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 5px 10px
+}
+#contactUs{
+    background-color: #9FC5F8;
+    text-decoration: underline;
+    width: 100%;
+    text-align: right;
+    margin: 10px;
+    padding: 5px 10px
+}
